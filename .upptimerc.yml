@@ -12,6 +12,8 @@ sites:
     url: https://nextcloud.kerl.io
   - name: Loxone
     url: http://loxone.kerl.io
+  - name: Cam-85
+    url: http://lucien.kerl.io:85
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
