@@ -4,18 +4,19 @@
     "url": "https://synology.kerl.io",
     "icon": "https://favicons.githubusercontent.com/synology.kerl.io",
     "slug": "synology",
-    "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 826,
     "timeDay": 721,
     "timeWeek": 868,
     "timeMonth": 826,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2021-03-04": 2,
       "2021-03-01": 31
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://bitwarden.kerl.io",
     "icon": "https://favicons.githubusercontent.com/bitwarden.kerl.io",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
     "time": 697,
@@ -36,6 +37,7 @@
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2021-03-04": 2,
       "2021-03-01": 31,
       "2021-02-28": 16
     }
@@ -45,10 +47,10 @@
     "url": "https://nextcloud.kerl.io",
     "icon": "https://favicons.githubusercontent.com/nextcloud.kerl.io",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
     "time": 1032,
@@ -57,6 +59,7 @@
     "timeMonth": 1032,
     "timeYear": 1032,
     "dailyMinutesDown": {
+      "2021-03-04": 1,
       "2021-03-01": 30,
       "2021-02-28": 15,
       "2021-02-18": 16
@@ -67,10 +70,10 @@
     "url": "http://loxone.kerl.io",
     "icon": "https://favicons.githubusercontent.com/loxone.kerl.io",
     "slug": "loxone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 367,
@@ -79,6 +82,7 @@
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2021-03-04": 1,
       "2021-03-01": 30
     }
   },
@@ -87,9 +91,9 @@
     "url": "http://lucien.kerl.io:85",
     "icon": "https://favicons.githubusercontent.com/lucien.kerl.io",
     "slug": "cam-85",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
@@ -99,6 +103,7 @@
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {
+      "2021-03-04": 0,
       "2021-03-01": 29
     }
   }
