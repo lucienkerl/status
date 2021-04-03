@@ -1,7 +1,7 @@
 url: https://bitwarden.kerl.io
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2021-04-02T23:20:42.393Z
+status: down
+code: 502
+responseTime: 3560
+lastUpdated: 2021-04-03T17:55:27.530Z
 startTime: Thu Feb 18 2021 16:46:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
