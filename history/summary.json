@@ -92,17 +92,17 @@
     "url": "http://lucien.kerl.io:85",
     "icon": "https://favicons.githubusercontent.com/lucien.kerl.io",
     "slug": "cam-85",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 472,
-    "timeDay": 0,
-    "timeWeek": 548,
-    "timeMonth": 480,
-    "timeYear": 472,
+    "time": 476,
+    "timeDay": 722,
+    "timeWeek": 565,
+    "timeMonth": 486,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2021-03-01": 29
     }
