@@ -4,11 +4,11 @@
     "url": "https://synology.kerl.io",
     "icon": "https://favicons.githubusercontent.com/synology.kerl.io",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 1162,
     "timeDay": 772,
@@ -16,6 +16,7 @@
     "timeMonth": 1010,
     "timeYear": 1162,
     "dailyMinutesDown": {
+      "2021-05-11": 2,
       "2021-03-04": 16,
       "2021-03-01": 31
     }
@@ -25,10 +26,10 @@
     "url": "https://bitwarden.kerl.io",
     "icon": "https://favicons.githubusercontent.com/bitwarden.kerl.io",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "58.44%",
-    "uptimeWeek": "94.06%",
+    "uptimeDay": "58.32%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.43%",
     "time": 985,
@@ -37,7 +38,7 @@
     "timeMonth": 1280,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2021-05-11": 535,
+      "2021-05-11": 537,
       "2021-05-10": 63,
       "2021-03-06": 16,
       "2021-03-04": 16,
@@ -50,10 +51,10 @@
     "url": "https://nextcloud.kerl.io",
     "icon": "https://favicons.githubusercontent.com/nextcloud.kerl.io",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.45%",
-    "uptimeDay": "11.58%",
-    "uptimeWeek": "59.26%",
+    "uptimeDay": "13.51%",
+    "uptimeWeek": "59.25%",
     "uptimeMonth": "90.62%",
     "uptimeYear": "96.45%",
     "time": 1418,
@@ -62,7 +63,7 @@
     "timeMonth": 1865,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2021-05-11": 894,
+      "2021-05-11": 895,
       "2021-05-10": 1440,
       "2021-05-09": 1440,
       "2021-05-08": 333,
@@ -78,10 +79,10 @@
     "url": "http://loxone.kerl.io",
     "icon": "https://favicons.githubusercontent.com/loxone.kerl.io",
     "slug": "loxone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 361,
@@ -90,6 +91,7 @@
     "timeMonth": 363,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2021-05-11": 1,
       "2021-03-01": 30
     }
   },
@@ -98,9 +100,9 @@
     "url": "http://lucien.kerl.io:85",
     "icon": "https://favicons.githubusercontent.com/lucien.kerl.io",
     "slug": "cam-85",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -110,6 +112,7 @@
     "timeMonth": 494,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2021-05-11": 0,
       "2021-03-01": 29
     }
   }
