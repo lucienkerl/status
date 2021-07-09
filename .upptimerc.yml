@@ -15,7 +15,7 @@ sites:
   - name: Cam-85
     url: http://lucien.kerl.io:85
   - name: Network
-    url: https://37.24.191.63:16175
+    url: $FB_FIXED_IP
     __dangerous__insecure: true
 
 status-website:
