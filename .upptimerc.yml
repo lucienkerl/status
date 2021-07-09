@@ -16,6 +16,7 @@ sites:
     url: http://lucien.kerl.io:85
   - name: Network
     url: $FB_FIXED_IP
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
