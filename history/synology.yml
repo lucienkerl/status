@@ -1,7 +1,7 @@
 url: https://synology.kerl.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-07-16T16:40:48.599Z
+status: up
+code: 200
+responseTime: 1035
+lastUpdated: 2021-07-16T16:45:30.602Z
 startTime: Thu Feb 18 2021 16:38:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
