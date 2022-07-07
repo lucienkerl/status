@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.51%",
     "time": 1223,
-    "timeDay": 722,
-    "timeWeek": 1090,
-    "timeMonth": 1203,
-    "timeYear": 1151,
+    "timeDay": 736,
+    "timeWeek": 1078,
+    "timeMonth": 1200,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2022-07-01": 25,
       "2022-06-02": 255,
@@ -32,8 +32,7 @@
       "2021-08-03": 44,
       "2021-07-30": 214,
       "2021-07-22": 91,
-      "2021-07-20": 100,
-      "2021-07-07": 479
+      "2021-07-20": 100
     }
   },
   {
@@ -47,10 +46,10 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.52%",
-    "time": 780,
-    "timeDay": 464,
-    "timeWeek": 619,
-    "timeMonth": 625,
+    "time": 777,
+    "timeDay": 439,
+    "timeWeek": 599,
+    "timeMonth": 620,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2022-07-01": 24,
@@ -69,8 +68,7 @@
       "2021-08-03": 43,
       "2021-07-30": 214,
       "2021-07-22": 91,
-      "2021-07-20": 98,
-      "2021-07-07": 478
+      "2021-07-20": 98
     }
   },
   {
@@ -83,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.03%",
-    "time": 1415,
-    "timeDay": 790,
-    "timeWeek": 937,
-    "timeMonth": 986,
-    "timeYear": 1015,
+    "uptimeYear": "98.06%",
+    "time": 1413,
+    "timeDay": 739,
+    "timeWeek": 933,
+    "timeMonth": 980,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2022-07-01": 24,
       "2022-06-02": 254,
@@ -116,8 +114,7 @@
       "2021-08-03": 40,
       "2021-07-30": 213,
       "2021-07-22": 90,
-      "2021-07-20": 98,
-      "2021-07-07": 478
+      "2021-07-20": 98
     }
   },
   {
@@ -132,10 +129,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.52%",
     "time": 335,
-    "timeDay": 298,
-    "timeWeek": 342,
-    "timeMonth": 341,
-    "timeYear": 333,
+    "timeDay": 277,
+    "timeWeek": 343,
+    "timeMonth": 339,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2022-07-01": 23,
       "2022-06-02": 253,
@@ -156,8 +153,7 @@
       "2021-08-03": 39,
       "2021-07-30": 213,
       "2021-07-22": 86,
-      "2021-07-20": 96,
-      "2021-07-07": 476
+      "2021-07-20": 96
     }
   },
   {
@@ -166,19 +162,20 @@
     "icon": "https://favicons.githubusercontent.com/lucien.kerl.io",
     "slug": "cam-85",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.32%",
-    "uptimeMonth": "84.20%",
-    "uptimeYear": "98.24%",
+    "uptimeWeek": "19.07%",
+    "uptimeMonth": "80.92%",
+    "uptimeYear": "97.96%",
     "time": 460,
-    "timeDay": 370,
-    "timeWeek": 511,
-    "timeMonth": 485,
-    "timeYear": 464,
+    "timeDay": 405,
+    "timeWeek": 528,
+    "timeMonth": 484,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2022-07-01": 843,
-      "2022-07-06": 118,
+      "2022-07-07": 114,
+      "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
@@ -201,8 +198,7 @@
       "2021-08-03": 39,
       "2021-07-30": 213,
       "2021-07-22": 86,
-      "2021-07-20": 96,
-      "2021-07-07": 333
+      "2021-07-20": 96
     }
   },
   {
@@ -217,9 +213,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.60%",
     "time": 673,
-    "timeDay": 568,
-    "timeWeek": 618,
-    "timeMonth": 667,
+    "timeDay": 557,
+    "timeWeek": 613,
+    "timeMonth": 663,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2022-07-01": 21,
