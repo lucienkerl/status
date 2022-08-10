@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.69%",
     "time": 1193,
-    "timeDay": 826,
-    "timeWeek": 1468,
-    "timeMonth": 1114,
-    "timeYear": 1148,
+    "timeDay": 1228,
+    "timeWeek": 1502,
+    "timeMonth": 1119,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2022-08-07": 51,
       "2022-07-27": 35,
@@ -28,8 +28,7 @@
       "2021-10-16": 6,
       "2021-10-15": 119,
       "2021-09-19": 100,
-      "2021-08-11": 100,
-      "2021-08-10": 589
+      "2021-08-11": 100
     }
   },
   {
@@ -42,11 +41,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 658,
-    "timeDay": 459,
-    "timeWeek": 550,
-    "timeMonth": 573,
+    "timeDay": 670,
+    "timeWeek": 556,
+    "timeMonth": 570,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2022-08-07": 51,
@@ -61,8 +60,7 @@
       "2021-10-16": 6,
       "2021-10-15": 119,
       "2021-09-19": 99,
-      "2021-08-11": 99,
-      "2021-08-10": 589
+      "2021-08-11": 99
     }
   },
   {
@@ -71,18 +69,17 @@
     "icon": "https://favicons.githubusercontent.com/nextcloud.kerl.io",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "97.89%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "98.22%",
-    "time": 1303,
-    "timeDay": 1068,
-    "timeWeek": 920,
-    "timeMonth": 929,
-    "timeYear": 994,
+    "uptime": "97.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "98.24%",
+    "time": 1134,
+    "timeDay": 1093,
+    "timeWeek": 917,
+    "timeMonth": 924,
+    "timeYear": 995,
     "dailyMinutesDown": {
-      "2022-08-09": 4,
       "2022-08-07": 50,
       "2022-07-27": 34,
       "2022-07-01": 24,
@@ -105,8 +102,7 @@
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 44,
-      "2021-08-11": 99,
-      "2021-08-10": 585
+      "2021-08-11": 99
     }
   },
   {
@@ -119,12 +115,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.69%",
     "time": 333,
-    "timeDay": 266,
-    "timeWeek": 323,
-    "timeMonth": 339,
-    "timeYear": 336,
+    "timeDay": 356,
+    "timeWeek": 322,
+    "timeMonth": 338,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-08-07": 50,
       "2022-07-27": 33,
@@ -141,8 +137,7 @@
       "2021-10-15": 118,
       "2021-09-19": 98,
       "2021-08-24": 3,
-      "2021-08-11": 98,
-      "2021-08-10": 582
+      "2021-08-11": 98
     }
   },
   {
@@ -155,12 +150,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.84%",
-    "time": 459,
-    "timeDay": 347,
-    "timeWeek": 410,
-    "timeMonth": 480,
-    "timeYear": 466,
+    "uptimeYear": "97.85%",
+    "time": 460,
+    "timeDay": 697,
+    "timeWeek": 434,
+    "timeMonth": 483,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2022-08-07": 49,
       "2022-07-27": 33,
@@ -184,8 +179,7 @@
       "2021-10-15": 117,
       "2021-09-19": 95,
       "2021-08-24": 3,
-      "2021-08-11": 98,
-      "2021-08-10": 581
+      "2021-08-11": 98
     }
   },
   {
@@ -198,11 +192,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.70%",
     "time": 671,
-    "timeDay": 570,
-    "timeWeek": 611,
-    "timeMonth": 641,
+    "timeDay": 655,
+    "timeWeek": 609,
+    "timeMonth": 637,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2022-08-07": 49,
@@ -219,8 +213,7 @@
       "2021-10-15": 117,
       "2021-09-19": 94,
       "2021-08-24": 2,
-      "2021-08-11": 97,
-      "2021-08-10": 581
+      "2021-08-11": 97
     }
   }
 ]
