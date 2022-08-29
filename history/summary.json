@@ -72,8 +72,8 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "97.93%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "98.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.76%",
     "time": 1214,
@@ -82,7 +82,6 @@
     "timeMonth": 1183,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2022-08-29": 3,
       "2022-08-27": 117,
       "2022-08-10": 164,
       "2022-08-07": 50,
