@@ -1,7 +1,7 @@
 url: http://loxone.kerl.io
-status: down
-code: 502
-responseTime: 398
-lastUpdated: 2023-07-05T15:28:29.101Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2023-07-05T15:30:17.145Z
 startTime: Thu Feb 18 2021 17:02:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
