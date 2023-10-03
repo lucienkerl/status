@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "96.46%",
-    "time": 1369,
-    "timeDay": 2902,
-    "timeWeek": 2888,
-    "timeMonth": 2834,
-    "timeYear": 1409,
+    "time": 1371,
+    "timeDay": 1838,
+    "timeWeek": 2831,
+    "timeMonth": 2717,
+    "timeYear": 1408,
     "dailyMinutesDown": {
       "2023-09-13": 104,
       "2023-09-12": 5,
@@ -53,8 +53,7 @@
       "2023-01-18": 94,
       "2022-11-21": 15,
       "2022-11-20": 34,
-      "2022-11-07": 331,
-      "2022-10-03": 24
+      "2022-11-07": 331
     }
   },
   {
@@ -69,9 +68,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.50%",
     "time": 691,
-    "timeDay": 672,
-    "timeWeek": 651,
-    "timeMonth": 660,
+    "timeDay": 478,
+    "timeWeek": 656,
+    "timeMonth": 653,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2023-09-13": 103,
@@ -102,8 +101,7 @@
       "2023-01-18": 124,
       "2022-11-21": 10,
       "2022-11-20": 33,
-      "2022-11-07": 331,
-      "2022-10-03": 24
+      "2022-11-07": 331
     }
   },
   {
@@ -112,16 +110,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "91.09%",
+    "uptime": "91.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "79.85%",
     "time": 1252,
-    "timeDay": 1145,
-    "timeWeek": 1116,
-    "timeMonth": 1050,
-    "timeYear": 1291,
+    "timeDay": 970,
+    "timeWeek": 1122,
+    "timeMonth": 1046,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2023-09-13": 103,
       "2023-09-12": 4,
@@ -221,8 +219,7 @@
       "2023-01-18": 123,
       "2022-11-21": 10,
       "2022-11-20": 32,
-      "2022-11-07": 330,
-      "2022-10-03": 43
+      "2022-11-07": 330
     }
   },
   {
@@ -231,15 +228,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/loxone.kerl.io.ico",
     "slug": "loxone",
     "status": "up",
-    "uptime": "96.23%",
+    "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.29%",
     "uptimeYear": "90.91%",
     "time": 923,
-    "timeDay": 366,
-    "timeWeek": 394,
-    "timeMonth": 1357,
+    "timeDay": 251,
+    "timeWeek": 373,
+    "timeMonth": 1354,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2023-09-13": 102,
@@ -302,8 +299,7 @@
       "2023-01-18": 93,
       "2022-11-21": 16,
       "2022-11-20": 31,
-      "2022-11-07": 330,
-      "2022-10-03": 23
+      "2022-11-07": 330
     }
   },
   {
@@ -312,15 +308,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucien.kerl.io.ico",
     "slug": "cam-85",
     "status": "up",
-    "uptime": "95.68%",
+    "uptime": "95.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "91.25%",
     "time": 572,
-    "timeDay": 508,
-    "timeWeek": 526,
-    "timeMonth": 1083,
+    "timeDay": 375,
+    "timeWeek": 514,
+    "timeMonth": 1079,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2023-09-13": 99,
@@ -376,8 +372,7 @@
       "2023-01-18": 92,
       "2022-11-07": 329,
       "2022-10-07": 645,
-      "2022-10-06": 994,
-      "2022-10-03": 22
+      "2022-10-06": 994
     }
   },
   {
@@ -386,18 +381,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "68.29%",
+    "uptime": "68.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.75%",
+    "uptimeYear": "29.47%",
     "time": 658,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-10-02": 62,
+      "2023-10-03": 61,
+      "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -655,8 +651,7 @@
       "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 204,
-      "2022-11-07": 329,
-      "2022-10-03": 22
+      "2022-11-07": 329
     }
   }
 ]
