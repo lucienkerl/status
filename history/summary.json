@@ -116,19 +116,20 @@
     "url": "https://nextcloud.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "92.27%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "79.52%",
     "time": 1328,
-    "timeDay": 955,
-    "timeWeek": 1334,
-    "timeMonth": 1471,
+    "timeDay": 970,
+    "timeWeek": 1300,
+    "timeMonth": 1460,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2024-03-17": 1,
+      "2024-03-18": 0,
+      "2024-03-17": 4,
       "2024-03-08": 19,
       "2024-01-17": 190,
       "2024-01-16": 53,
@@ -378,7 +379,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-17": 1436,
+      "2024-03-18": 1,
+      "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -741,8 +743,7 @@
       "2023-03-23": 1440,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
-      "2023-03-20": 1440,
-      "2023-03-19": 1440
+      "2023-03-20": 1440
     }
   }
 ]
