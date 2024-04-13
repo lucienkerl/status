@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
-    "time": 1526,
-    "timeDay": 1067,
-    "timeWeek": 857,
-    "timeMonth": 779,
-    "timeYear": 1601,
+    "time": 1525,
+    "timeDay": 585,
+    "timeWeek": 834,
+    "timeMonth": 775,
+    "timeYear": 1600,
     "dailyMinutesDown": {
       "2024-03-08": 20,
       "2024-01-17": 190,
@@ -66,9 +66,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 777,
-    "timeDay": 564,
-    "timeWeek": 554,
-    "timeMonth": 877,
+    "timeDay": 473,
+    "timeWeek": 537,
+    "timeMonth": 874,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2024-03-08": 19,
@@ -117,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "92.44%",
+    "uptime": "92.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.86%",
+    "uptimeYear": "81.14%",
     "time": 1362,
-    "timeDay": 960,
-    "timeWeek": 915,
-    "timeMonth": 1474,
+    "timeDay": 848,
+    "timeWeek": 892,
+    "timeMonth": 1470,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2024-03-08": 19,
@@ -228,8 +228,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -244,8 +243,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.35%",
     "time": 942,
-    "timeDay": 454,
-    "timeWeek": 381,
+    "timeDay": 396,
+    "timeWeek": 387,
     "timeMonth": 764,
     "timeYear": 863,
     "dailyMinutesDown": {
@@ -303,15 +302,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lucien.kerl.io.ico",
     "slug": "cam-85",
     "status": "up",
-    "uptime": "96.30%",
+    "uptime": "96.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.93%",
     "time": 650,
-    "timeDay": 467,
-    "timeWeek": 508,
-    "timeMonth": 662,
+    "timeDay": 520,
+    "timeWeek": 497,
+    "timeMonth": 661,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2024-03-22": 115,
@@ -360,7 +359,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "55.21%",
+    "uptime": "55.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -371,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-12": 63,
+      "2024-04-13": 52,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -734,8 +734,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   }
 ]
