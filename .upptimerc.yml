@@ -12,8 +12,8 @@ sites:
     url: https://nextcloud.kerl.io
   - name: Loxone
     url: http://loxone.kerl.io
-  - name: Cam-85
-    url: http://lucien.kerl.io:85
+  - name: Cam-90
+    url: http://lucien.kerl.io:90
   - name: Network
     url: $FB_FIXED_IP
     __dangerous__insecure: true
@@ -26,12 +26,11 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
