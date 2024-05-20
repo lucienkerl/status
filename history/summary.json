@@ -10,11 +10,11 @@
     "uptimeWeek": "96.73%",
     "uptimeMonth": "93.54%",
     "uptimeYear": "98.81%",
-    "time": 1744,
-    "timeDay": 733,
-    "timeWeek": 954,
-    "timeMonth": 801,
-    "timeYear": 1875,
+    "time": 1733,
+    "timeDay": 775,
+    "timeWeek": 965,
+    "timeMonth": 806,
+    "timeYear": 1874,
     "dailyMinutesDown": {
       "2024-05-19": 20,
       "2024-05-18": 24,
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.kerl.io.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "86.13%",
-    "uptimeMonth": "91.46%",
+    "uptime": "99.22%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "86.18%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "98.45%",
     "time": 1005,
-    "timeDay": 530,
-    "timeWeek": 671,
-    "timeMonth": 842,
-    "timeYear": 1065,
+    "timeDay": 542,
+    "timeWeek": 678,
+    "timeMonth": 844,
+    "timeYear": 1064,
     "dailyMinutesDown": {
-      "2024-05-19": 24,
+      "2024-05-19": 19,
       "2024-05-18": 23,
       "2024-05-17": 682,
       "2024-05-16": 498,
@@ -155,12 +155,12 @@
     "uptimeDay": "98.70%",
     "uptimeWeek": "86.24%",
     "uptimeMonth": "91.11%",
-    "uptimeYear": "90.42%",
-    "time": 1557,
-    "timeDay": 1420,
-    "timeWeek": 1320,
-    "timeMonth": 1480,
-    "timeYear": 1625,
+    "uptimeYear": "90.45%",
+    "time": 1558,
+    "timeDay": 1055,
+    "timeWeek": 1332,
+    "timeMonth": 1484,
+    "timeYear": 1620,
     "dailyMinutesDown": {
       "2024-05-19": 19,
       "2024-05-18": 23,
@@ -244,8 +244,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 1440
+      "2023-05-22": 1440
     }
   },
   {
@@ -260,8 +259,8 @@
     "uptimeMonth": "93.82%",
     "uptimeYear": "96.84%",
     "time": 1125,
-    "timeDay": 328,
-    "timeWeek": 1173,
+    "timeDay": 357,
+    "timeWeek": 1177,
     "timeMonth": 1243,
     "timeYear": 1111,
     "dailyMinutesDown": {
@@ -345,7 +344,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-19": 1387,
+      "2024-05-20": 66,
+      "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1128
     }
@@ -361,13 +361,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 689,
+    "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-19": 1387,
+      "2024-05-20": 66,
+      "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
@@ -730,8 +731,7 @@
       "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
-      "2023-05-22": 1440,
-      "2023-05-21": 1440
+      "2023-05-22": 1440
     }
   }
 ]
