@@ -10,10 +10,10 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.89%",
-    "time": 1660,
-    "timeDay": 880,
-    "timeWeek": 767,
-    "timeMonth": 838,
+    "time": 1661,
+    "timeDay": 995,
+    "timeWeek": 803,
+    "timeMonth": 843,
     "timeYear": 1770,
     "dailyMinutesDown": {
       "2024-08-13": 45,
@@ -76,10 +76,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "96.63%",
     "time": 1030,
-    "timeDay": 571,
-    "timeWeek": 495,
-    "timeMonth": 551,
-    "timeYear": 1074,
+    "timeDay": 494,
+    "timeWeek": 488,
+    "timeMonth": 549,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-08-13": 44,
       "2024-06-29": 16,
@@ -152,9 +152,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.27%",
     "time": 1610,
-    "timeDay": 1188,
-    "timeWeek": 928,
-    "timeMonth": 912,
+    "timeDay": 881,
+    "timeWeek": 934,
+    "timeMonth": 911,
     "timeYear": 1535,
     "dailyMinutesDown": {
       "2024-08-15": 31,
@@ -225,10 +225,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "95.29%",
     "time": 1218,
-    "timeDay": 559,
-    "timeWeek": 485,
-    "timeMonth": 501,
-    "timeYear": 1258,
+    "timeDay": 468,
+    "timeWeek": 489,
+    "timeMonth": 500,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2024-08-13": 43,
       "2024-06-29": 15,
@@ -307,7 +307,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 77,
+      "2024-08-19": 74,
+      "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -409,7 +410,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "48.98%",
+    "uptime": "48.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -420,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-18": 77,
+      "2024-08-19": 74,
+      "2024-08-18": 1440,
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
@@ -783,8 +785,7 @@
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
-      "2023-08-21": 1440,
-      "2023-08-20": 1440
+      "2023-08-21": 1440
     }
   }
 ]
