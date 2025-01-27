@@ -50,10 +50,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.kerl.io.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.91%",
     "time": 1011,
     "timeDay": 1520,
@@ -61,7 +61,6 @@
     "timeMonth": 1164,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2025-01-26": 6,
       "2024-11-20": 25,
       "2024-11-19": 1384,
       "2024-08-13": 44,
@@ -111,15 +110,16 @@
     "uptime": "92.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.62%",
-    "uptimeYear": "91.96%",
+    "uptimeMonth": "17.43%",
+    "uptimeYear": "91.94%",
     "time": 1570,
     "timeDay": 1883,
     "timeWeek": 3285,
     "timeMonth": 2943,
     "timeYear": 1659,
     "dailyMinutesDown": {
-      "2025-01-26": 1437,
+      "2025-01-27": 80,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -256,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1437,
+      "2025-01-27": 80,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -519,7 +520,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "42.87%",
+    "uptime": "42.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -530,7 +531,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-26": 1437,
+      "2025-01-27": 80,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -893,8 +895,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440
+      "2024-01-29": 1440
     }
   }
 ]
