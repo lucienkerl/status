@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "97.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.44%",
+    "uptimeWeek": "51.70%",
     "uptimeMonth": "42.84%",
     "uptimeYear": "94.83%",
     "time": 1281,
-    "timeDay": 851,
-    "timeWeek": 777,
-    "timeMonth": 834,
-    "timeYear": 946,
+    "timeDay": 791,
+    "timeWeek": 780,
+    "timeMonth": 836,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2025-04-29": 645,
       "2025-04-28": 1440,
@@ -50,8 +50,7 @@
       "2024-05-13": 70,
       "2024-05-11": 90,
       "2024-05-08": 960,
-      "2024-05-04": 30,
-      "2024-05-03": 19
+      "2024-05-04": 30
     }
   },
   {
@@ -66,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.22%",
     "time": 1187,
-    "timeDay": 675,
-    "timeWeek": 1121,
-    "timeMonth": 955,
-    "timeYear": 963,
+    "timeDay": 632,
+    "timeWeek": 1118,
+    "timeMonth": 959,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2025-02-27": 21,
       "2024-11-20": 25,
@@ -98,8 +97,7 @@
       "2024-05-14": 101,
       "2024-05-13": 69,
       "2024-05-11": 89,
-      "2024-05-08": 953,
-      "2024-05-03": 19
+      "2024-05-08": 953
     }
   },
   {
@@ -108,18 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "86.94%",
+    "uptime": "86.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.28%",
-    "time": 1927,
-    "timeDay": 2258,
-    "timeWeek": 3342,
-    "timeMonth": 3409,
-    "timeYear": 1836,
+    "uptimeYear": "66.00%",
+    "time": 1930,
+    "timeDay": 3633,
+    "timeWeek": 3336,
+    "timeMonth": 3416,
+    "timeYear": 1846,
     "dailyMinutesDown": {
-      "2025-05-02": 99,
+      "2025-05-03": 96,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -263,8 +262,7 @@
       "2024-05-13": 65,
       "2024-05-11": 84,
       "2024-05-08": 953,
-      "2024-05-04": 16,
-      "2024-05-03": 18
+      "2024-05-04": 16
     }
   },
   {
@@ -278,11 +276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.33%",
-    "time": 1325,
-    "timeDay": 565,
-    "timeWeek": 528,
-    "timeMonth": 526,
-    "timeYear": 892,
+    "time": 1326,
+    "timeDay": 660,
+    "timeWeek": 540,
+    "timeMonth": 533,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-02-27": 19,
       "2024-09-24": 0,
@@ -334,7 +332,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 99,
+      "2025-05-03": 96,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -693,7 +692,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "39.94%",
+    "uptime": "39.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -704,7 +703,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 99,
+      "2025-05-03": 96,
+      "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
@@ -1067,8 +1067,7 @@
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
-      "2024-05-04": 1440,
-      "2024-05-03": 1440
+      "2024-05-04": 1440
     }
   }
 ]
