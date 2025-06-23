@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.22%",
-    "time": 997,
-    "timeDay": 973,
-    "timeWeek": 781,
-    "timeMonth": 757,
+    "time": 984,
+    "timeDay": 940,
+    "timeWeek": 796,
+    "timeMonth": 767,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2025-04-29": 645,
@@ -46,17 +46,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "98.89%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.17%",
     "time": 1040,
-    "timeDay": 548,
-    "timeWeek": 1022,
-    "timeMonth": 1320,
+    "timeDay": 567,
+    "timeWeek": 1036,
+    "timeMonth": 1325,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2025-06-22": 5,
       "2025-06-03": 1380,
       "2025-06-02": 1440,
       "2025-06-01": 64,
@@ -77,14 +76,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.85%",
+    "uptimeYear": "52.82%",
     "time": 2038,
-    "timeDay": 3479,
-    "timeWeek": 3521,
-    "timeMonth": 3415,
-    "timeYear": 2067,
+    "timeDay": 3660,
+    "timeWeek": 3547,
+    "timeMonth": 3424,
+    "timeYear": 2074,
     "dailyMinutesDown": {
-      "2025-06-22": 1386,
+      "2025-06-23": 110,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -275,10 +275,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 981,
-    "timeDay": 597,
-    "timeWeek": 528,
-    "timeMonth": 528,
+    "time": 975,
+    "timeDay": 536,
+    "timeWeek": 522,
+    "timeMonth": 529,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2025-02-27": 19,
@@ -305,7 +305,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 1387,
+      "2025-06-23": 111,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -668,8 +669,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   },
   {
@@ -689,7 +689,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-22": 1387,
+      "2025-06-23": 111,
+      "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
@@ -1052,8 +1053,7 @@
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
-      "2024-06-24": 1440,
-      "2024-06-23": 1440
+      "2024-06-24": 1440
     }
   }
 ]
