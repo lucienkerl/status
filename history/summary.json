@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.22%",
     "time": 937,
-    "timeDay": 1565,
-    "timeWeek": 887,
+    "timeDay": 771,
+    "timeWeek": 864,
     "timeMonth": 801,
     "timeYear": 961,
     "dailyMinutesDown": {
@@ -45,17 +45,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 1072,
-    "timeDay": 627,
-    "timeWeek": 821,
-    "timeMonth": 1138,
-    "timeYear": 1098,
+    "timeDay": 579,
+    "timeWeek": 810,
+    "timeMonth": 1139,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-07-08": 5,
       "2025-06-03": 1380,
       "2025-06-02": 1440,
       "2025-06-01": 64,
@@ -75,14 +74,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.47%",
-    "time": 2101,
-    "timeDay": 3572,
-    "timeWeek": 2848,
-    "timeMonth": 3263,
-    "timeYear": 2177,
+    "uptimeYear": "48.44%",
+    "time": 2107,
+    "timeDay": 3527,
+    "timeWeek": 2841,
+    "timeMonth": 3268,
+    "timeYear": 2183,
     "dailyMinutesDown": {
-      "2025-07-08": 1387,
+      "2025-07-09": 107,
+      "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -289,9 +289,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 885,
-    "timeDay": 412,
-    "timeWeek": 496,
-    "timeMonth": 522,
+    "timeDay": 350,
+    "timeWeek": 485,
+    "timeMonth": 518,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2025-02-27": 19,
@@ -317,7 +317,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-08": 1387,
+      "2025-07-09": 107,
+      "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -680,8 +681,7 @@
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
-      "2024-07-10": 1440,
-      "2024-07-09": 1440
+      "2024-07-10": 1440
     }
   },
   {
@@ -701,7 +701,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-08": 1387,
+      "2025-07-09": 107,
+      "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
@@ -1064,8 +1065,7 @@
       "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
-      "2024-07-10": 1440,
-      "2024-07-09": 1440
+      "2024-07-10": 1440
     }
   }
 ]
