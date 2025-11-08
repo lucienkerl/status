@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.14%",
     "time": 947,
-    "timeDay": 1199,
-    "timeWeek": 937,
-    "timeMonth": 1115,
+    "timeDay": 720,
+    "timeWeek": 925,
+    "timeMonth": 1037,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2025-09-02": 455,
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
     "time": 1043,
-    "timeDay": 453,
-    "timeWeek": 584,
-    "timeMonth": 979,
-    "timeYear": 1213,
+    "timeDay": 481,
+    "timeWeek": 555,
+    "timeMonth": 973,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2025-10-01": 25,
       "2025-09-27": 430,
@@ -75,15 +75,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "79.52%",
+    "uptime": "79.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "25.31%",
     "time": 2382,
-    "timeDay": 758,
-    "timeWeek": 1009,
-    "timeMonth": 1781,
+    "timeDay": 826,
+    "timeWeek": 974,
+    "timeMonth": 1767,
     "timeYear": 2768,
     "dailyMinutesDown": {
       "2025-10-01": 795,
@@ -373,10 +373,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 751,
-    "timeDay": 356,
-    "timeWeek": 532,
-    "timeMonth": 509,
+    "time": 752,
+    "timeDay": 399,
+    "timeWeek": 519,
+    "timeMonth": 503,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2025-09-02": 25,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-07": 100,
+      "2025-11-08": 87,
+      "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -763,8 +764,7 @@
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
-      "2024-11-09": 1440,
-      "2024-11-08": 1440
+      "2024-11-09": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "35.16%",
+    "uptime": "35.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-07": 100,
+      "2025-11-08": 87,
+      "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
@@ -1147,8 +1148,7 @@
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
-      "2024-11-09": 1440,
-      "2024-11-08": 1440
+      "2024-11-09": 1440
     }
   }
 ]
