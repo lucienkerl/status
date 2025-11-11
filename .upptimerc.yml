@@ -4,6 +4,8 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Jenkins i-Buildings
+    url: https://jenkins.i-buildings.de
   - name: Synology
     url: https://synology.kerl.io
   - name: Bitwarden
