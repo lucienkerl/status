@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
     "status": "up",
-    "uptime": "96.15%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.15%",
-    "uptimeYear": "96.15%",
+    "uptime": "96.84%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "96.84%",
     "time": 632,
     "timeDay": 632,
     "timeWeek": 632,
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-11-12": 5,
       "2025-11-11": 30
     }
   },
@@ -421,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 67,
+      "2025-11-12": 101,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -805,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 67,
+      "2025-11-12": 101,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
