@@ -1,7 +1,7 @@
 url: https://nextcloud.kerl.io
-status: down
-code: 502
-responseTime: 3457
-lastUpdated: 2026-01-16T01:05:24.850Z
+status: up
+code: 200
+responseTime: 1193
+lastUpdated: 2026-01-16T01:09:18.853Z
 startTime: 2021-02-18T16:46:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
