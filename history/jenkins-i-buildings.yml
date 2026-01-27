@@ -1,7 +1,7 @@
 url: https://jenkins.i-buildings.de/login
-status: down
-code: 530
-responseTime: 583
-lastUpdated: 2026-01-27T01:00:17.323Z
+status: up
+code: 200
+responseTime: 1341
+lastUpdated: 2026-01-27T01:10:29.674Z
 startTime: 2025-11-11T09:57:12.320Z
 generator: Upptime <https://github.com/upptime/upptime>
