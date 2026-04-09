@@ -6,9 +6,9 @@
     "slug": "jenkins-i-buildings",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.84%",
     "time": 773,
     "timeDay": 743,
@@ -16,7 +16,6 @@
     "timeMonth": 713,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2026-04-09": 5,
       "2026-03-19": 80,
       "2026-02-06": 15,
       "2026-01-14": 745,
@@ -42,7 +41,7 @@
     "uptimeYear": "95.09%",
     "time": 956,
     "timeDay": 604,
-    "timeWeek": 679,
+    "timeWeek": 671,
     "timeMonth": 679,
     "timeYear": 926,
     "dailyMinutesDown": {
@@ -84,7 +83,7 @@
     "uptimeYear": "99.16%",
     "time": 1232,
     "timeDay": 510,
-    "timeWeek": 981,
+    "timeWeek": 1038,
     "timeMonth": 1306,
     "timeYear": 1201,
     "dailyMinutesDown": {
@@ -122,7 +121,7 @@
     "timeMonth": 931,
     "timeYear": 2223,
     "dailyMinutesDown": {
-      "2026-04-09": 92,
+      "2026-04-09": 149,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -376,7 +375,7 @@
     "uptimeYear": "99.90%",
     "time": 627,
     "timeDay": 377,
-    "timeWeek": 453,
+    "timeWeek": 469,
     "timeMonth": 468,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -404,7 +403,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 92,
+      "2026-04-09": 149,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -788,7 +787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 92,
+      "2026-04-09": 149,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
