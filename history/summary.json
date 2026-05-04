@@ -4,18 +4,19 @@
     "url": "https://jenkins.i-buildings.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.91%",
-    "time": 742,
-    "timeDay": 472,
-    "timeWeek": 603,
-    "timeMonth": 616,
-    "timeYear": 742,
+    "time": 740,
+    "timeDay": 343,
+    "timeWeek": 605,
+    "timeMonth": 611,
+    "timeYear": 740,
     "dailyMinutesDown": {
+      "2026-05-04": 1,
       "2026-05-03": 20,
       "2026-05-02": 25,
       "2026-04-28": 20,
@@ -53,10 +54,10 @@
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.81%",
     "time": 973,
-    "timeDay": 658,
-    "timeWeek": 700,
-    "timeMonth": 1122,
-    "timeYear": 953,
+    "timeDay": 587,
+    "timeWeek": 652,
+    "timeMonth": 1118,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2026-04-18": 205,
       "2026-02-18": 215,
@@ -77,10 +78,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.13%",
-    "time": 1281,
-    "timeDay": 638,
-    "timeWeek": 1384,
-    "timeMonth": 1296,
+    "time": 1280,
+    "timeDay": 470,
+    "timeWeek": 1381,
+    "timeMonth": 1289,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2026-04-18": 190,
@@ -107,18 +108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "77.01%",
+    "uptime": "76.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "35.42%",
-    "time": 2445,
-    "timeDay": 3515,
-    "timeWeek": 3493,
-    "timeMonth": 3014,
-    "timeYear": 2209,
+    "time": 2449,
+    "timeDay": 3377,
+    "timeWeek": 3487,
+    "timeMonth": 3106,
+    "timeYear": 2210,
     "dailyMinutesDown": {
-      "2026-05-03": 203,
+      "2026-05-04": 2,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -355,8 +357,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -371,9 +372,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.86%",
     "time": 584,
-    "timeDay": 488,
-    "timeWeek": 490,
-    "timeMonth": 457,
+    "timeDay": 510,
+    "timeWeek": 491,
+    "timeMonth": 456,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2026-04-18": 189,
@@ -401,7 +402,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 203,
+      "2026-05-04": 2,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -764,8 +766,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -774,7 +775,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "31.62%",
+    "uptime": "31.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -785,7 +786,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 203,
+      "2026-05-04": 2,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -1148,8 +1150,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   }
 ]
