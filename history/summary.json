@@ -6,13 +6,13 @@
     "slug": "jenkins-i-buildings",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "94.48%",
+    "uptimeDay": "94.82%",
     "uptimeWeek": "97.13%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.85%",
     "time": 733,
-    "timeDay": 486,
-    "timeWeek": 417,
+    "timeDay": 454,
+    "timeWeek": 412,
     "timeMonth": 607,
     "timeYear": 733,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "timeMonth": 3362,
     "timeYear": 2213,
     "dailyMinutesDown": {
-      "2026-05-14": 85,
+      "2026-05-14": 213,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -408,7 +408,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-14": 86,
+      "2026-05-14": 213,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -792,7 +792,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-14": 86,
+      "2026-05-14": 213,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
