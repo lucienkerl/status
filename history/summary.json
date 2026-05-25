@@ -4,17 +4,17 @@
     "url": "https://jenkins.i-buildings.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "94.80%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "93.41%",
     "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.81%",
-    "time": 716,
-    "timeDay": 324,
-    "timeWeek": 395,
-    "timeMonth": 542,
-    "timeYear": 716,
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "98.80%",
+    "time": 715,
+    "timeDay": 258,
+    "timeWeek": 396,
+    "timeMonth": 537,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2025-11-11": 30,
       "2025-11-18": 114,
@@ -52,7 +52,7 @@
       "2026-05-18": 85,
       "2026-05-20": 20,
       "2026-05-24": 20,
-      "2026-05-25": 55
+      "2026-05-25": 75
     }
   },
   {
@@ -87,9 +87,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.12%",
     "time": 1265,
     "timeDay": 479,
@@ -113,8 +113,7 @@
       "2026-03-23": 39,
       "2026-03-25": 30,
       "2026-04-18": 190,
-      "2026-05-21": 20,
-      "2026-05-25": 15
+      "2026-05-21": 20
     }
   },
   {
@@ -269,7 +268,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-05-25": 56,
+      "2026-05-25": 76,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -417,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 56,
+      "2026-05-25": 76,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -801,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 56,
+      "2026-05-25": 76,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
