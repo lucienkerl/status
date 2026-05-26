@@ -60,11 +60,11 @@
     "url": "https://synology.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.81%",
     "time": 965,
     "timeDay": 0,
@@ -77,7 +77,8 @@
       "2025-11-23": 14,
       "2025-12-10": 60,
       "2026-02-18": 215,
-      "2026-04-18": 205
+      "2026-04-18": 205,
+      "2026-05-26": 13
     }
   },
   {
@@ -93,7 +94,7 @@
     "uptimeYear": "99.12%",
     "time": 1265,
     "timeDay": 0,
-    "timeWeek": 908,
+    "timeWeek": 881,
     "timeMonth": 1037,
     "timeYear": 1185,
     "dailyMinutesDown": {
@@ -122,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "76.09%",
+    "uptime": "76.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -267,7 +268,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-05-26": 220,
+      "2026-05-26": 521,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -416,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 220,
+      "2026-05-26": 521,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -800,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 220,
+      "2026-05-26": 521,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
