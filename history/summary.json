@@ -60,17 +60,17 @@
     "url": "https://synology.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
-    "status": "down",
+    "status": "up",
     "uptime": "98.14%",
-    "uptimeDay": "93.65%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.80%",
     "time": 963,
-    "timeDay": 629,
-    "timeWeek": 619,
+    "timeDay": 637,
+    "timeWeek": 625,
     "timeMonth": 645,
-    "timeYear": 917,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 29,
@@ -78,7 +78,7 @@
       "2025-12-10": 60,
       "2026-02-18": 215,
       "2026-04-18": 205,
-      "2026-05-26": 91
+      "2026-05-26": 96
     }
   },
   {
@@ -94,7 +94,7 @@
     "uptimeYear": "99.11%",
     "time": 1267,
     "timeDay": 745,
-    "timeWeek": 867,
+    "timeWeek": 580,
     "timeMonth": 1030,
     "timeYear": 1184,
     "dailyMinutesDown": {
@@ -269,7 +269,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-05-26": 901,
+      "2026-05-26": 916,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -419,7 +419,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 901,
+      "2026-05-26": 916,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -803,7 +803,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 901,
+      "2026-05-26": 916,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
