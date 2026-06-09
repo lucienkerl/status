@@ -61,17 +61,17 @@
     "url": "https://synology.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
-    "status": "down",
+    "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "98.63%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.79%",
-    "time": 957,
-    "timeDay": 0,
-    "timeWeek": 644,
-    "timeMonth": 645,
-    "timeYear": 919,
+    "time": 955,
+    "timeDay": 654,
+    "timeWeek": 647,
+    "timeMonth": 646,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 29,
@@ -81,7 +81,7 @@
       "2026-04-18": 205,
       "2026-05-26": 96,
       "2026-06-06": 20,
-      "2026-06-09": 19
+      "2026-06-09": 20
     }
   },
   {
@@ -89,17 +89,17 @@
     "url": "https://bitwarden.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.kerl.io.ico",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.65%",
-    "time": 1190,
-    "timeDay": 0,
-    "timeWeek": 637,
-    "timeMonth": 776,
-    "timeYear": 1147,
+    "time": 1236,
+    "timeDay": 709,
+    "timeWeek": 651,
+    "timeMonth": 774,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 28,
@@ -117,7 +117,7 @@
       "2026-05-21": 20,
       "2026-05-26": 67,
       "2026-06-06": 15,
-      "2026-06-09": 14
+      "2026-06-09": 15
     }
   },
   {
@@ -257,7 +257,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-06-09": 22,
+      "2026-06-09": 33,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 22,
+      "2026-06-09": 33,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -805,7 +805,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-09": 22,
+      "2026-06-09": 33,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
