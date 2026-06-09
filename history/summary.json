@@ -6,14 +6,14 @@
     "slug": "jenkins-i-buildings",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "98.84%",
     "time": 718,
-    "timeDay": 679,
+    "timeDay": 0,
     "timeWeek": 630,
-    "timeMonth": 537,
+    "timeMonth": 542,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-11-11": 30,
@@ -53,8 +53,7 @@
       "2026-05-20": 20,
       "2026-05-24": 20,
       "2026-05-25": 80,
-      "2026-05-28": 115,
-      "2026-06-08": 11
+      "2026-05-28": 115
     }
   },
   {
@@ -62,16 +61,16 @@
     "url": "https://synology.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.79%",
     "time": 957,
     "timeDay": 0,
     "timeWeek": 644,
-    "timeMonth": 647,
+    "timeMonth": 645,
     "timeYear": 919,
     "dailyMinutesDown": {
       "2025-09-02": 455,
@@ -81,7 +80,8 @@
       "2026-02-18": 215,
       "2026-04-18": 205,
       "2026-05-26": 96,
-      "2026-06-06": 20
+      "2026-06-06": 20,
+      "2026-06-09": 19
     }
   },
   {
@@ -89,17 +89,17 @@
     "url": "https://bitwarden.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.kerl.io.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.66%",
-    "time": 1194,
-    "timeDay": 629,
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.65%",
+    "time": 1190,
+    "timeDay": 0,
     "timeWeek": 637,
-    "timeMonth": 774,
-    "timeYear": 1146,
+    "timeMonth": 776,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 28,
@@ -116,7 +116,8 @@
       "2026-04-18": 190,
       "2026-05-21": 20,
       "2026-05-26": 67,
-      "2026-06-06": 15
+      "2026-06-06": 15,
+      "2026-06-09": 14
     }
   },
   {
@@ -125,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "75.58%",
+    "uptime": "75.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -133,8 +134,8 @@
     "time": 2451,
     "timeDay": 0,
     "timeWeek": 3501,
-    "timeMonth": 3358,
-    "timeYear": 2171,
+    "timeMonth": 3349,
+    "timeYear": 2168,
     "dailyMinutesDown": {
       "2025-10-01": 795,
       "2025-09-30": 1440,
@@ -250,14 +251,14 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
-      "2025-06-09": 1440,
       "2025-11-23": 14,
       "2025-11-24": 228,
       "2025-12-10": 123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-06-08": 24,
+      "2026-06-09": 22,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -391,7 +392,7 @@
     "time": 581,
     "timeDay": 0,
     "timeWeek": 1436,
-    "timeMonth": 621,
+    "timeMonth": 627,
     "timeYear": 512,
     "dailyMinutesDown": {
       "2025-09-02": 25,
@@ -420,7 +421,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 24,
+      "2026-06-09": 22,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -783,8 +785,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 1440,
-      "2025-06-09": 1440
+      "2025-06-10": 1440
     }
   },
   {
@@ -793,7 +794,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "30.99%",
+    "uptime": "30.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -804,7 +805,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-08": 24,
+      "2026-06-09": 22,
+      "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
@@ -1167,8 +1169,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 1440,
-      "2025-06-09": 1440
+      "2025-06-10": 1440
     }
   }
 ]
