@@ -4,16 +4,16 @@
     "url": "https://jenkins.i-buildings.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
-    "status": "down",
+    "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "98.93%",
     "time": 718,
-    "timeDay": 46,
-    "timeWeek": 505,
-    "timeMonth": 838,
+    "timeDay": 447,
+    "timeWeek": 537,
+    "timeMonth": 847,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2025-11-11": 30,
@@ -54,7 +54,7 @@
       "2026-05-24": 20,
       "2026-05-25": 80,
       "2026-05-28": 115,
-      "2026-06-27": 10
+      "2026-06-27": 11
     }
   },
   {
@@ -239,7 +239,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-06-27": 90,
+      "2026-06-27": 101,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 90,
+      "2026-06-27": 101,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -805,7 +805,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 90,
+      "2026-06-27": 101,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
