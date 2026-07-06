@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.98%",
     "time": 716,
     "timeDay": 643,
     "timeWeek": 645,
@@ -53,8 +53,7 @@
       "2026-05-20": 20,
       "2026-05-24": 20,
       "2026-05-25": 80,
-      "2026-05-28": 115,
-      "2026-07-06": 11
+      "2026-05-28": 115
     }
   },
   {
@@ -62,16 +61,16 @@
     "url": "https://synology.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.79%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.78%",
     "time": 925,
     "timeDay": 0,
     "timeWeek": 707,
-    "timeMonth": 709,
+    "timeMonth": 716,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2025-09-02": 455,
@@ -82,7 +81,8 @@
       "2026-04-18": 205,
       "2026-05-26": 96,
       "2026-06-06": 20,
-      "2026-06-09": 20
+      "2026-06-09": 20,
+      "2026-07-06": 24
     }
   },
   {
@@ -90,16 +90,16 @@
     "url": "https://bitwarden.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.kerl.io.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.66%",
-    "time": 1187,
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.65%",
+    "time": 1188,
     "timeDay": 0,
     "timeWeek": 603,
-    "timeMonth": 621,
+    "timeMonth": 617,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2025-09-02": 455,
@@ -117,7 +117,8 @@
       "2026-04-18": 190,
       "2026-05-21": 20,
       "2026-05-26": 67,
-      "2026-06-06": 15
+      "2026-06-06": 15,
+      "2026-07-06": 20
     }
   },
   {
@@ -126,7 +127,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "74.50%",
+    "uptime": "74.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -230,7 +231,7 @@
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-07-06": 25,
+      "2026-07-06": 1234,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -383,11 +384,11 @@
     "url": "http://loxone.kerl.io",
     "icon": "https://icons.duckduckgo.com/ip3/loxone.kerl.io.ico",
     "slug": "loxone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 543,
     "timeDay": 0,
@@ -401,7 +402,8 @@
       "2025-12-10": 56,
       "2026-02-18": 213,
       "2026-04-18": 189,
-      "2026-05-26": 42
+      "2026-05-26": 42,
+      "2026-07-06": 10
     }
   },
   {
@@ -421,7 +423,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 25,
+      "2026-07-06": 1234,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
@@ -794,7 +796,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "30.51%",
+    "uptime": "30.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -805,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 25,
+      "2026-07-06": 1234,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
