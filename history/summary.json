@@ -4,17 +4,17 @@
     "url": "https://jenkins.i-buildings.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "98.98%",
-    "time": 716,
-    "timeDay": 835,
-    "timeWeek": 705,
-    "timeMonth": 682,
-    "timeYear": 716,
+    "uptimeYear": "98.99%",
+    "time": 715,
+    "timeDay": 853,
+    "timeWeek": 634,
+    "timeMonth": 666,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2025-11-11": 30,
       "2025-11-18": 114,
@@ -54,7 +54,7 @@
       "2026-05-24": 20,
       "2026-05-25": 80,
       "2026-05-28": 115,
-      "2026-07-08": 11
+      "2026-07-09": 10
     }
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
     "status": "down",
-    "uptime": "98.13%",
+    "uptime": "98.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.19%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "99.47%",
+    "uptimeWeek": "69.01%",
+    "uptimeMonth": "92.85%",
+    "uptimeYear": "99.19%",
     "time": 925,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 716,
-    "timeYear": 925,
+    "timeYear": 926,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 29,
@@ -83,7 +83,8 @@
       "2026-05-26": 96,
       "2026-06-06": 20,
       "2026-06-09": 20,
-      "2026-07-08": 25,
+      "2026-07-09": 14,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 230
     }
@@ -103,7 +104,7 @@
     "timeDay": 0,
     "timeWeek": 429,
     "timeMonth": 586,
-    "timeYear": 1137,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2025-09-02": 455,
       "2025-09-01": 28,
@@ -130,7 +131,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "74.43%",
+    "uptime": "74.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -139,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3414,
-    "timeYear": 2103,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2025-10-01": 795,
       "2025-09-30": 1440,
@@ -225,14 +226,14 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
       "2025-11-23": 14,
       "2025-11-24": 228,
       "2025-12-10": 123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-07-08": 25,
+      "2026-07-09": 14,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -397,7 +398,7 @@
     "timeDay": 0,
     "timeWeek": 462,
     "timeMonth": 465,
-    "timeYear": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2025-09-02": 25,
       "2025-11-23": 17,
@@ -426,7 +427,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-08": 25,
+      "2026-07-09": 14,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -789,8 +791,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -799,7 +800,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "30.48%",
+    "uptime": "30.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -810,7 +811,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-08": 25,
+      "2026-07-09": 14,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -1173,8 +1175,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   }
 ]
