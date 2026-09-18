@@ -4,17 +4,17 @@
     "url": "https://jenkins.i-buildings.de/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.i-buildings.de.ico",
     "slug": "jenkins-i-buildings",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.87%",
-    "time": 718,
-    "timeDay": 620,
-    "timeWeek": 627,
-    "timeMonth": 669,
-    "timeYear": 718,
+    "time": 717,
+    "timeDay": 92,
+    "timeWeek": 570,
+    "timeMonth": 657,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-11-11": 30,
       "2025-11-18": 114,
@@ -59,7 +59,7 @@
       "2026-08-28": 42,
       "2026-09-03": 21,
       "2026-09-08": 42,
-      "2026-09-17": 11
+      "2026-09-18": 10
     }
   },
   {
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/synology.kerl.io.ico",
     "slug": "synology",
     "status": "down",
-    "uptime": "94.71%",
+    "uptime": "94.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.11%",
+    "uptimeYear": "79.83%",
     "time": 930,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 950,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2025-11-23": 14,
       "2025-12-10": 60,
@@ -86,7 +86,8 @@
       "2026-05-26": 96,
       "2026-06-06": 20,
       "2026-06-09": 20,
-      "2026-09-17": 24,
+      "2026-09-18": 14,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -175,9 +176,9 @@
     "uptimeYear": "99.59%",
     "time": 1101,
     "timeDay": 0,
-    "timeWeek": 401,
+    "timeWeek": 383,
     "timeMonth": 436,
-    "timeYear": 1119,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-09-27": 430,
       "2025-09-26": 189,
@@ -203,7 +204,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.kerl.io.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "71.83%",
+    "uptime": "71.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -212,7 +213,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1829,
+    "timeYear": 1824,
     "dailyMinutesDown": {
       "2025-10-01": 795,
       "2025-09-30": 1440,
@@ -227,14 +228,14 @@
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
-      "2025-09-18": 1440,
       "2025-11-23": 14,
       "2025-11-24": 228,
       "2025-12-10": 123,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1380,
-      "2026-09-17": 24,
+      "2026-09-18": 14,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -468,7 +469,7 @@
     "uptimeYear": "99.70%",
     "time": 556,
     "timeDay": 0,
-    "timeWeek": 398,
+    "timeWeek": 393,
     "timeMonth": 821,
     "timeYear": 523,
     "dailyMinutesDown": {
@@ -499,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 24,
+      "2026-09-18": 14,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -862,8 +864,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   },
   {
@@ -872,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "down",
-    "uptime": "29.34%",
+    "uptime": "29.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -883,7 +884,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-17": 24,
+      "2026-09-18": 14,
+      "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
       "2026-09-14": 1440,
@@ -1246,8 +1248,7 @@
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 1440
+      "2025-09-19": 1440
     }
   }
 ]
